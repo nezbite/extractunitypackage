@@ -22,6 +22,7 @@ The steps are for Windows, if you are a Linux/MacOS user I assume that you know 
 ## Sidenote
 
 I've removed the original extractor script, you can find it at the original git: https://github.com/gered/extractunitypackage
+
 I am in no way associated with the original script, I just did some modifications so that it can extract corrupted files.
 
 ## Disclaimer
