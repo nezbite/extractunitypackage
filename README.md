@@ -2,7 +2,8 @@
 
 This is a modified version of gered's UnityPackage Extractor (https://github.com/gered/extractunitypackage) that can handle somewhat broken .unitypackage files.
 
-Steps: 
+## Steps:
+
 The steps are for Windows, if you are a Linux/MacOS user I assume that you know how to use the terminal and run python scripts (though the steps are somewhat similar).
 
 1. You need to unzip the .unitypackage file by yourself. I recommend WinRar. If it fails with WinRar the file is completely corrupted.
@@ -18,8 +19,10 @@ The steps are for Windows, if you are a Linux/MacOS user I assume that you know 
 6. You should have the extracted files in a new folder called "output" and the list of files that are corrupted in "missingfiles.txt"
 
 
+## Sidenote
 
-
+I've removed the original extractor script, you can find it at the original git: https://github.com/gered/extractunitypackage
+I am in no way associated with the original script, I just did some modifications so that it can extract corrupted files.
 
 ## Disclaimer
 
